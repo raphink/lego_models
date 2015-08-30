@@ -1,7 +1,7 @@
 Lego Models
 ============
 
-LEGO models for the kids (and myself :-))
+LEGO models for the kids (and myself, but don't tell anyone)
 
 # Models
 
