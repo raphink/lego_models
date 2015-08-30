@@ -2,50 +2,51 @@
 layout: index
 ---
 
+
 Lego Models
 ============
 
-LEGO models for the kids (and myself :-))
+LEGO models for the kids (and myself, but don't tell anyone)
 
 # Models
 
-[Complete instructions PDF](all_models.pdf)
+[Complete instructions PDF](https://raw.githubusercontent.com/raphink/lego_models/master/all_models.pdf)
 
 
 ## Classic boat
 
-This is a subset of [10692](http://brickset.com/sets/10692-1/Creative-Bricks)
+This is a subset of [10692](https://raw.githubusercontent.com/raphink/lego_models/master/http://brickset.com/sets/10692-1/Creative-Bricks)
 
-![Classic boat](classic_boat.png)
+![Classic boat](https://raw.githubusercontent.com/raphink/lego_models/master/classic_boat.png)
 
 
-[Instructions](classic_boat.pdf) — [3D model](classic_boat.ldr)
+[Instructions](https://raw.githubusercontent.com/raphink/lego_models/master/classic_boat.pdf) — [3D model](https://raw.githubusercontent.com/raphink/lego_models/master/classic_boat.ldr)
 
 
 ## Digger
 
-This uses parts from [10698](http://brickset.com/sets/10698-1), as well as generic blocks and a steering wheel
+This uses parts from [10698](https://raw.githubusercontent.com/raphink/lego_models/master/http://brickset.com/sets/10698-1), as well as generic blocks and a steering wheel
 
-![Digger](digger.png)
+![Digger](https://raw.githubusercontent.com/raphink/lego_models/master/digger.png)
 
-[Instructions](digger.pdf) — [3D model](digger.ldr)
+[Instructions](https://raw.githubusercontent.com/raphink/lego_models/master/digger.pdf) — [3D model](https://raw.githubusercontent.com/raphink/lego_models/master/digger.ldr)
 
 
 ## Ranch
 
-This ranch is based on [10692](http://brickset.com/sets/10692-1/Creative-Bricks)
+This ranch is based on [10692](https://raw.githubusercontent.com/raphink/lego_models/master/http://brickset.com/sets/10692-1/Creative-Bricks)
 
-![Ranch](ranch.png)
+![Ranch](https://raw.githubusercontent.com/raphink/lego_models/master/ranch.png)
 
-[Instructions](ranch.pdf) — [3D model](ranch.ldr)
+[Instructions](https://raw.githubusercontent.com/raphink/lego_models/master/ranch.pdf) — [3D model](https://raw.githubusercontent.com/raphink/lego_models/master/ranch.ldr)
 
 ## Medieval house
 
-Using parts from both [10692](http://brickset.com/sets/10692-1/Creative-Bricks) and [10698](http://brickset.com/sets/10698-1), as well as generic bricks (mostly red)
+Using parts from both [10692](https://raw.githubusercontent.com/raphink/lego_models/master/http://brickset.com/sets/10692-1/Creative-Bricks) and [10698](https://raw.githubusercontent.com/raphink/lego_models/master/http://brickset.com/sets/10698-1), as well as generic bricks (mostly red)
 
-![Medieval house](medieval_house.png)
+![Medieval house](https://raw.githubusercontent.com/raphink/lego_models/master/medieval_house.png)
 
-[Instructions](medieval_house.pdf) — [3D model](medieval_house.ldr)
+[Instructions](https://raw.githubusercontent.com/raphink/lego_models/master/medieval_house.pdf) — [3D model](https://raw.githubusercontent.com/raphink/lego_models/master/medieval_house.ldr)
 
 # Generating instructions
 
