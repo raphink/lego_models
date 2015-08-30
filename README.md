@@ -5,6 +5,9 @@ LEGO models for the kids (and myself :-))
 
 # Models
 
+[Complete instructions PDF](all_models.pdf)
+
+
 ## Classic boat
 
 This is a subset of [10692](http://brickset.com/sets/10692-1/Creative-Bricks)
