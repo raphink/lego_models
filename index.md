@@ -50,6 +50,8 @@ Using parts from both [10692](https://raw.githubusercontent.com/raphink/lego_mod
 
 ## Fire & Rescue Red Helicopter
 
+![Helicopter](https://raw.githubusercontent.com/raphink/lego_models/master/https://raw.githubusercontent.com/raphink/lego_models/master/helicopter.png)
+
 [Instructions](https://raw.githubusercontent.com/raphink/lego_models/master/https://raw.githubusercontent.com/raphink/lego_models/master/helicopter.pdf) — [3D model](https://raw.githubusercontent.com/raphink/lego_models/master/https://raw.githubusercontent.com/raphink/lego_models/master/helicopter.mpd)
 
 
