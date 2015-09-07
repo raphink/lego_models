@@ -1,8 +1,3 @@
----
-layout: index
----
-
-
 Lego Models
 ============
 
@@ -29,7 +24,7 @@ This uses parts from [10698](https://raw.githubusercontent.com/raphink/lego_mode
 
 ![Digger](https://raw.githubusercontent.com/raphink/lego_models/master/digger.png)
 
-[Instructions](https://raw.githubusercontent.com/raphink/lego_models/master/digger.pdf) — [3D model](https://raw.githubusercontent.com/raphink/lego_models/master/digger.ldr)
+[Instructions](https://raw.githubusercontent.com/raphink/lego_models/master/digger.pdf) — [3D model](https://raw.githubusercontent.com/raphink/lego_models/master/digger.mpd)
 
 
 ## Ranch
@@ -38,7 +33,7 @@ This ranch is based on [10692](https://raw.githubusercontent.com/raphink/lego_mo
 
 ![Ranch](https://raw.githubusercontent.com/raphink/lego_models/master/ranch.png)
 
-[Instructions](https://raw.githubusercontent.com/raphink/lego_models/master/ranch.pdf) — [3D model](https://raw.githubusercontent.com/raphink/lego_models/master/ranch.ldr)
+[Instructions](https://raw.githubusercontent.com/raphink/lego_models/master/ranch.pdf) — [3D model](https://raw.githubusercontent.com/raphink/lego_models/master/ranch.mpd)
 
 ## Medieval house
 
@@ -46,7 +41,12 @@ Using parts from both [10692](https://raw.githubusercontent.com/raphink/lego_mod
 
 ![Medieval house](https://raw.githubusercontent.com/raphink/lego_models/master/medieval_house.png)
 
-[Instructions](https://raw.githubusercontent.com/raphink/lego_models/master/medieval_house.pdf) — [3D model](https://raw.githubusercontent.com/raphink/lego_models/master/medieval_house.ldr)
+[Instructions](https://raw.githubusercontent.com/raphink/lego_models/master/medieval_house.pdf) — [3D model](https://raw.githubusercontent.com/raphink/lego_models/master/medieval_house.mpd)
+
+## Fire & Rescue Red Helicopter
+
+[Instructions](https://raw.githubusercontent.com/raphink/lego_models/master/helicopter.pdf) — [3D model](https://raw.githubusercontent.com/raphink/lego_models/master/helicopter.mpd)
+
 
 # Generating instructions
 
